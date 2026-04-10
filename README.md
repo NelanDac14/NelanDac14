@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hola, soy Nelson Acuña
 
-<!--
-**NelanDac14/NelanDac14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Informática en la UNED
+📍 Costa Rica
+🚀 Interesado en desarrollo de software y soluciones tecnológicas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy una persona con experiencia en logística, ventas y gestión de inventarios, actualmente enfocado en el área de tecnología.
+Me apasiona resolver problemas mediante programación y optimizar procesos utilizando herramientas digitales.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+* Java
+* C++
+* SQLite
+* XML
+* Git & GitHub
+* SAP (básico-intermedio)
+
+---
+
+## 📂 Proyectos destacados
+
+🚧 Actualmente desarrollando proyectos enfocados en:
+
+* Sistemas de gestión (inventarios, clientes)
+* Automatización de procesos administrativos
+* Aplicaciones orientadas a logística y rutas
+
+---
+
+## 📫 Contacto
+
+📧 [acuacamba@gmail.com](mailto:acuacamba@gmail.com)
+📱 +506 6316-6551
+
+---
+
+⭐ Siempre aprendiendo y mejorando mis habilidades
